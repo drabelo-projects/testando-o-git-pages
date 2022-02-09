@@ -1,3 +1,3 @@
 # testando-o-git-pages
 
-Aprendendo o deploy
+Aprendendo o git pages
